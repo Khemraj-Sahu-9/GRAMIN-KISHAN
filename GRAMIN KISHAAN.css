@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page {
+    background-color: #ffffff;
+    text-align: center;
+    background-image: url('https://t3.ftcdn.net/jpg/03/91/46/10/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg/');
+}
+
+.header {
+    background-color: #212930;
+}
+
+.header-img {
+    width: 80px;
+    height: 100px;
+
+}
+
+.main-heading {
+    font-weight: 700;
+    color: #00BFFF;
+    font-family: Bree-Serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.main-heading3 {
+    font-weight: 700;
+    color: #ffffff;
+    font-family: Bree-Serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.about-box {
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.main-heading2 {
+    font-weight: 700;
+    color: #7CFC00;
+    font-family: Bree-Serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.highlight {
+    color: #7CFC00;
+    text-align: center;
+    font-family: Sans-Serif;
+}
+
+.highlight2 {
+    color: #00BFFF;
+    text-align: center;
+    font-family: Sans-Serif;
+}
+
+.main-topics {
+    color: black;
+    font-family: "Bree-Serif";
+}
+
+.topic-img {
+    height: 200px;
+    width: 250px;
+}
+
+.topic-img1 {
+    height: 200px;
+    width: 200px;
+    margin-left: 60px;
+
+}
+
+.box {
+    border-style: solid;
+    border-width: 5px;
+    font-size: 20px;
+    border-color: #000000;
+    color: #ffffff;
+    background-color: #212930;
+    font-family: "Bree-Serif";
+    padding: 20px;
+}
+
+.icon {
+    color: #ffffff;
+}
+
+.box3 {
+
+    font-size: 30px;
+    border-color: #000000;
+    color: #ffffff;
+    background-color: #212930;
+    font-family: "Bree-Serif";
+}
+
+.box1 {
+    background-color: #212930;
+    border-style: solid;
+    border-width: 5px;
+    font-size: 20px;
+    font-family: "Bree-Serif";
+    padding: 20px;
+    border-color: #00BFFF;
+}
+
+.sub-heading {
+    font-size: 10px;
+    color: #000000;
+}
+
+.p1 {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Bree-Serif;
+}
+
+.first-picture {
+    height: 300px;
+    width: 300px;
+    size: cover;
+}
+
+.image1 {
+    width: 220px;
+    text-align: center;
+}
+
+.my-img {
+    height: 100px;
+
+}
